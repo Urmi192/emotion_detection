@@ -32,7 +32,7 @@ emotion-detection/
 │── README.md           # Project documentation
 ⚙️ Installation & Setup
 Clone the repository:
-https://github.com/adarshmehta001/emotion_detection.git
+https://github.com/Urmi192/emotion_detection.git
 Install dependencies:
 pip install -r requirements.txt
 Run the project:
